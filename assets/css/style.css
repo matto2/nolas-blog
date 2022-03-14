@@ -43,13 +43,13 @@ body {
 }
 
 .brand {
-    font-family: 'Brawler', serif;
-    line-height: 3rem;
+    font-family: 'Architects Daughter', cursive;
+    line-height: 3.5rem;
     color: deeppink;
 }
 
 .nav .brand {
-    font-size: 2.5em;
+    font-size: 3em;
     padding-top: 0;
     padding-bottom: 0;
     color: deeppink;
