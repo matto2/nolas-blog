@@ -1,0 +1,35 @@
+---
+layout: layout.njk
+title: test
+---
+
+# {{ title }}
+
+
+<h1>Active Button</h1>
+<p>Highlight the active/current (pressed) button.</p>
+  
+<div id="myDIV">
+  <button class="btn">1</button>
+  <button class="btn">2</button>
+  <button class="btn">3</button>
+  <button class="btn">4</button>
+  <button class="btn">5</button>
+</div>
+
+<script>
+// Add active class to the current button (highlight it)
+var header = document.getElementById("myDIV");
+var btns = header.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+  var current = document.getElementsByClassName("active");
+  if (current.length > 0) { 
+    current[0].className = current[0].className.replace(" active", "");
+  }
+  this.className += " active";
+  });
+}
+</script>
+
+
