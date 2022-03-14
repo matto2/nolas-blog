@@ -16,4 +16,8 @@ title: About
 
 # {{ title }}
 
-No info yet...
+Thanks for visiting! 👋 I'm Matt (Nola’s dad) and  made this blog to share one of Nola’s writing assignments at school.
+
+<img src="/assets/img/life-nola-shortstory.jpg">
+
+<strong>Why not just post on social media? </strong> That's always an option but I'm not a fan of FB. Also, I like to practice building things on the web and sharing the process with anyone who's interested. Plan is for this site to evolve and share more made-by-Nola content over time. I'll just be an editor and facilitator. 

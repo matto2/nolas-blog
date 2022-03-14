@@ -1,7 +1,7 @@
 @import url(chota.css);
 
 :root {
-    --bg-color: #ffffff;
+    --bg-color: #fbf4f3;
     --bg-secondary-color: #f3f3f6;
     --color-primary: #f807a8;
     --color-lightGrey: #d2d6dd;
@@ -79,4 +79,9 @@ body {
 
 .nav .brand:hover {
 opacity: 100%;    
+}
+
+
+footer {
+    margin-top: 6rem;
 }
