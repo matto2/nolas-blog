@@ -77,11 +77,37 @@ body {
     text-align: center;
 }
 
-.nav .brand:hover {
-opacity: 100%;    
+.nav .brand:hover a {
+opacity: 100%;
+text-decoration: none; 
 }
 
 
 footer {
     margin-top: 6rem;
+}
+
+a:hover {
+    opacity: 1;
+    text-decoration: underline;
+}
+
+a:hover:not(.button) {
+    opacity: 1;
+    text-decoration: underline;
+    /* background-color: white; */
+}
+
+.brand a:hover:not(.button) {
+    opacity: 1;
+    text-decoration: none;
+    /* background-color: white; */
+}
+
+a.brand:hover {
+    text-decoration: none;
+}
+
+.nav:hover a {
+    text-decoration: none;
 }

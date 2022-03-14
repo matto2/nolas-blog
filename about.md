@@ -16,7 +16,7 @@ title: About
 
 # {{ title }}
 
-Thanks for visiting! 👋 I'm Matt (Nola’s dad) and  made this blog to share one of Nola’s writing assignments at school.
+**Thanks for visiting!** 👋 I'm Matt (Nola’s dad) and  made this blog to share one of Nola’s writing assignments at school.
 
 <img src="/assets/img/life-nola-shortstory.webp">
 
