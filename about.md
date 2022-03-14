@@ -16,14 +16,4 @@ title: About
 
 # {{ title }}
 
-Changes - changes -= ...boo!! This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. 
-
-This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. 
-
-This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. 
-
-This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. This is the about page. 
-
-# Hey
-
-## hey hey boo!
+No info yet...
